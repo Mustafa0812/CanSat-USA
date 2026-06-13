@@ -90,13 +90,13 @@ by the 5V buck converter rail. It handles:
 ### Layout
 ![Full Layout](images/full_layout.png)
 
-#### Sensor_Layout
+### Sensor_Layout
 ![Sensor_Layout](images/sensor_layout.png)
 
-##### Power Layout
+### Power Layout
 ![Power Layout](images/power_layout.png)
 
-###### Servo and Terminal Layout
+### Servo and Terminal Layout
 ![Servo and Terminal Layout](images/servo&terminal_layout.png)
 ---   
 
@@ -148,11 +148,16 @@ incurring additional PCB fabrication time or cost.
 - Working within fixed mechanical and electrical constraints
 - Rapid iteration under real project timeline pressure
 
-## HAT PCB Design
+### HAT PCB Design
 
+### Schematic
 ![Schematic](images/raspischematic.png)
 
+### PCB
 ![PCB top](images/raspi-top.png)
+
+### HAT attached
 ![Hat attached](images/raspilayout_1.png)
 
+### Layout
 ![Layout](images/raspilayout.png)
