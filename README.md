@@ -113,3 +113,26 @@ by the 5V buck converter rail. It handles:
 - **Filled zones and thermal vias:** Used copper pours and via stitching
   to connect top layer pads to the power plane, ensuring clean power
   delivery and adequate current handling capacity for high-current paths.
+
+
+
+## Hardware Revision — Raspberry Pi Zero 2W HAT
+
+After the PCB was manufactured, the software team revised their approach
+and moved from a Teensy 4.1 to a Raspberry Pi Zero 2W as the main flight
+computer. Rather than redesigning and remanufacturing the board, a custom
+HAT was designed to adapt the Raspberry Pi Zero 2W to fit the existing
+Teensy 4.1 footprint on the avionics board.
+
+The HAT breaks out the necessary GPIO, UART, and power pins from the Pi's
+40-pin header and maps them to the Teensy 4.1 pad layout, allowing the
+Pi to interface directly with the existing PCB without any board-level
+modifications.
+
+This approach allowed the team to meet the mission deadline without
+incurring additional PCB fabrication time or cost.
+
+### What This Taught Me
+- Designing adapter hardware to bridge incompatible footprints
+- Working within fixed mechanical and electrical constraints
+- Rapid iteration under real project timeline pressure
