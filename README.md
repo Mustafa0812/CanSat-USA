@@ -73,7 +73,7 @@ by the 5V buck converter rail. It handles:
 - Release mechanism triggering via GPIO → MOSFET
 - XBee telemetry transmission to ground station
 
----
+--- 
 
 ## PCB Design
 
@@ -85,10 +85,10 @@ by the 5V buck converter rail. It handles:
 ![Schematic](Images/schematic.png)
 
 ### Layout
-![Layout](Images/full_layout.png)
-![Layout](Images/sensor_layout.png)
-![Layout](Images/power_layout.png)
-![Layout](Images/servo&terminal_layout.png)
+![Full Layout](Images/full_layout.png)
+![Sensor_Layout](Images/sensor_layout.png)
+![Power Layout](Images/power_layout.png)
+![Servo and Terminal Layout](Images/servo&terminal_layout.png)
 ---   
 
 ## What I Learned
@@ -139,7 +139,7 @@ incurring additional PCB fabrication time or cost.
 - Working within fixed mechanical and electrical constraints
 - Rapid iteration under real project timeline pressure
 
-## PCB Design
+## HAT PCB Design
 
 ![Schematic](Images/raspischematic.png)
 
