@@ -31,7 +31,7 @@ measurements across the entire system.
 | BMP581 | Barometric pressure / altitude | I2C |
 | INA260 | Current, voltage, power monitoring | I2C |
 | BNO055 | 9-axis IMU (accel, gyro, magnetometer) | I2C |
-| SparkFun NEO-M9N | GPS — position, velocity, time | UART |
+| SparkFun NEO-M9N | GPS — position, velocity, time | I2C |
 
 ---
 
