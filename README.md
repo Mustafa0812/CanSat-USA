@@ -80,7 +80,7 @@ by the 5V buck converter rail. It handles:
 
 ## PCB Design
 
-### Layout
+### PCB
 ![PCB Top](images/pcb_top.png)
 ![PCB Bottom](images/pcb_bottom.png)
 
@@ -89,8 +89,14 @@ by the 5V buck converter rail. It handles:
 
 ### Layout
 ![Full Layout](images/full_layout.png)
+
+#### Sensor_Layout
 ![Sensor_Layout](images/sensor_layout.png)
+
+##### Power Layout
 ![Power Layout](images/power_layout.png)
+
+###### Servo and Terminal Layout
 ![Servo and Terminal Layout](images/servo&terminal_layout.png)
 ---   
 
