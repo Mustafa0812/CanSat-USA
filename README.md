@@ -4,7 +4,7 @@ Custom avionics board designed and flown in the CanSat USA competition.
 Responsible for power management, sensor acquisition, payload control,
 and RF telemetry across the full flight mission.
 
-# Payload Image
+
 ![Payload](images/postflightimage.jpeg)
 
 ---
@@ -90,7 +90,7 @@ by the 5V buck converter rail. It handles:
 ### Layout
 ![Full Layout](images/full_layout.png)
 
-### Sensor_Layout
+### Sensor Layout
 ![Sensor_Layout](images/sensor_layout.png)
 
 ### Power Layout
