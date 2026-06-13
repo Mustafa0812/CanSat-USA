@@ -84,10 +84,12 @@ by the 5V buck converter rail. It handles:
 ### Schematic
 ![Schematic](images/schematic.png)
 
-### Assembled Board
-![Assembled](images/assembled.jpg)
-
----
+### Layout
+![Layout](images/full_layout.png)
+![Layout](images/sensor_layout.png)
+![Layout](images/power_layout.png)
+![Layout](images/servo&terminal_layout.png)
+---   
 
 ## What I Learned
 
@@ -136,3 +138,12 @@ incurring additional PCB fabrication time or cost.
 - Designing adapter hardware to bridge incompatible footprints
 - Working within fixed mechanical and electrical constraints
 - Rapid iteration under real project timeline pressure
+
+## PCB Design
+
+![Schematic](images/raspischematic.png)
+
+![PCB top](images/raspi-top.png)
+![Hat attached](images/raspilayout_1.png)
+
+![Layout](images/raspilayout.png)
