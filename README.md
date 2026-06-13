@@ -78,17 +78,17 @@ by the 5V buck converter rail. It handles:
 ## PCB Design
 
 ### Layout
-![PCB Top](images/pcb_top.jpg)
-![PCB Bottom](images/pcb_bottom.jpg)
+![PCB Top](Images/pcb_top.jpg)
+![PCB Bottom](Images/pcb_bottom.jpg)
 
 ### Schematic
-![Schematic](images/schematic.png)
+![Schematic](Images/schematic.png)
 
 ### Layout
-![Layout](images/full_layout.png)
-![Layout](images/sensor_layout.png)
-![Layout](images/power_layout.png)
-![Layout](images/servo&terminal_layout.png)
+![Layout](Images/full_layout.png)
+![Layout](Images/sensor_layout.png)
+![Layout](Images/power_layout.png)
+![Layout](Images/servo&terminal_layout.png)
 ---   
 
 ## What I Learned
@@ -141,9 +141,9 @@ incurring additional PCB fabrication time or cost.
 
 ## PCB Design
 
-![Schematic](images/raspischematic.png)
+![Schematic](Images/raspischematic.png)
 
-![PCB top](images/raspi-top.png)
-![Hat attached](images/raspilayout_1.png)
+![PCB top](Images/raspi-top.png)
+![Hat attached](Images/raspilayout_1.png)
 
-![Layout](images/raspilayout.png)
+![Layout](Images/raspilayout.png)
